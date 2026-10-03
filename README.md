@@ -4,6 +4,11 @@ PlantCare AI is an AI-powered plant care assistant built with Python, Streamlit,
 
 Users can upload a photo of their plant and ask questions about its condition. Gemini analyzes the image and provides practical plant-care guidance. Users can also generate a Plant Care Report and send it to their email.
 
+## 🔗 Project Links
+
+- **GitHub Repository:** : https://github.com/Bhavik006/PlantCare-AI
+- **Live Demo:** :https://plantcare-ai-project.streamlit.app/
+
 ## Features
 
 - 🌱 Simple user onboarding
